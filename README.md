@@ -1,0 +1,1 @@
+A simple utility to unpack and pack .pak file from the game トロピカルKISS (Tropical Kiss). Thrown rogether at the request of somebody looking for such a tool. I might expand this in the future if desired. 
