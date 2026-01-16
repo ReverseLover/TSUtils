@@ -469,10 +469,10 @@ namespace PakTool
         static void PrintUsage()
         {
             Console.WriteLine("Usage:");
-            Console.WriteLine("  PakTool extract <input.pak> [output_dir]");
-            Console.WriteLine("  PakTool pack <input_dir> [output.pak]");
-            Console.WriteLine("  PakTool decrypt <input.hse> [output.png]");
-            Console.WriteLine("  PakTool encrypt <input.png> [output.hse]");
+            Console.WriteLine("  TSUtils extract <input.pak> [output_dir]");
+            Console.WriteLine("  TSUtils pack <input_dir> [output.pak]");
+            Console.WriteLine("  TSUtils decrypt <input.hse> [output.png]");
+            Console.WriteLine("  TSUtils encrypt <input.png> [output.hse]");
         }
     }
 }
